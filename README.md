@@ -3,6 +3,7 @@ Learned new tools such as SQLite, SQLAlchemy, and Flask to build SQL database to
 
 ## Overview of the statistical analysis:
 The purpose of this Surfs_Up_Analysis to analyze weather statistics to open a Surf n' Shake shop in Oahu.
+
 In the analysis, two month was particularly selected to determine if the store can be opened year around and what product should be promoted in the particular month.
 
  During the analysis following were learned and applied in the Surfs_Up_Analysis:
@@ -31,7 +32,7 @@ Three key differences in weather between June and December Temperatures
   
 ## Summary:
 
-Weather data precipitation - Comparison between June and December
+### Weather data precipitation - Comparison between June and December
 * Even though there maximum temperature of December is closer to June, the precipitation data shows that December indicating more rain than in June; which will effect the surfing business.
 ### June: 
 ![image](https://user-images.githubusercontent.com/79486450/116829984-532e5200-ab75-11eb-9002-800deac03b6c.png)
