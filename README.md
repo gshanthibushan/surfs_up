@@ -30,10 +30,13 @@ Three key differences in weather between June and December Temperatures
 ## Summary:
 
 Weather data precipitation - Comparison between June and December
-Even though there maximum temperature of December is closer to June, the precipitation data shows that December indicating more rain than in June; which will effect the surfing business.
-* SurfsUp_Challenge.ipynb
-* June:  ![image](https://user-images.githubusercontent.com/79486450/116829984-532e5200-ab75-11eb-9002-800deac03b6c.png)
-* December: ![image](https://user-images.githubusercontent.com/79486450/116829997-680ae580-ab75-11eb-89e0-c0b5718a5d52.png)
-* June:  ![image](https://user-images.githubusercontent.com/79486450/116830048-9688c080-ab75-11eb-9c73-4e767403c08d.png)
-* December: ![image](https://user-images.githubusercontent.com/79486450/116830059-a902fa00-ab75-11eb-8bde-d3dba8380a68.png)
+* Even though there maximum temperature of December is closer to June, the precipitation data shows that December indicating more rain than in June; which will effect the surfing business.
+* June: 
+* ![image](https://user-images.githubusercontent.com/79486450/116829984-532e5200-ab75-11eb-9002-800deac03b6c.png)
+* December: 
+* ![image](https://user-images.githubusercontent.com/79486450/116829997-680ae580-ab75-11eb-89e0-c0b5718a5d52.png)
+* June:  
+* ![image](https://user-images.githubusercontent.com/79486450/116830048-9688c080-ab75-11eb-9c73-4e767403c08d.png)
+* December: 
+* ![image](https://user-images.githubusercontent.com/79486450/116830059-a902fa00-ab75-11eb-8bde-d3dba8380a68.png)
  
